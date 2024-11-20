@@ -1,6 +1,6 @@
-# 🪪 Verifio
+# 🪪 Keyros
 
-Welcome to **Verifio Desktop**, a cross-platform application designed to effortlessly verify and manage software license statuses and detailed information. Verifio ensures that developers stay organized and compliant with software usage across multiple platforms: Windows, macOS, and Linux.
+Welcome to **Keyros Desktop**, a cross-platform application designed to effortlessly verify and manage software license statuses and detailed information. Keyros ensures that developers stay organized and compliant with software usage across multiple platforms: Windows, macOS, and Linux.
 
 ---
 
@@ -20,7 +20,7 @@ Welcome to **Verifio Desktop**, a cross-platform application designed to effortl
 
 ## 🌟 Overview
 
-Verifio is a powerful, cross-platform desktop application built with modern web technologies. It allows developers to easily check and manage software license statuses, ensuring that they remain compliant and organized in their projects. The app is compatible with Windows, macOS, and Linux.
+Keyros is a powerful, cross-platform desktop application built with modern web technologies. It allows developers to easily check and manage software license statuses, ensuring that they remain compliant and organized in their projects. The app is compatible with Windows, macOS, and Linux.
 
 ---
 
@@ -28,10 +28,10 @@ Verifio is a powerful, cross-platform desktop application built with modern web 
 
 This project leverages the following core technologies:
 
-| 🖥️ Desktop Framework     | Frontend Framework       | Language         |
-|---------------------------|--------------------------|------------------|
-| **Tauri**                 | **React.js**            | **Rust**         |
-|                           |                         | **TypeScript** |
+| 🖥️ Desktop Framework | Frontend Framework | Language       |
+| -------------------- | ------------------ | -------------- |
+| **Tauri**            | **React.js**       | **Rust**       |
+|                      |                    | **TypeScript** |
 
 ---
 
@@ -39,12 +39,12 @@ This project leverages the following core technologies:
 
 The following packages and libraries are used in this project:
 
-| Package / Library             | Purpose                           |
-|--------------------------------|-----------------------------------|
-| `Vite`                        | Build tool                        |
-| `Shadcn UI`                   | Prebuilt components library       |
-| `Tailwind CSS`                | Styling framework                 |
-| `Recoil`                      | State management library          |
+| Package / Library | Purpose                     |
+| ----------------- | --------------------------- |
+| `Vite`            | Build tool                  |
+| `Shadcn UI`       | Prebuilt components library |
+| `Tailwind CSS`    | Styling framework           |
+| `Recoil`          | State management library    |
 
 ---
 
@@ -81,4 +81,4 @@ We thank the following resources for their support:
 
 ---
 
-### Stay organized and compliant with Verifio Desktop!
+### Stay organized and compliant with Keyros Desktop!
